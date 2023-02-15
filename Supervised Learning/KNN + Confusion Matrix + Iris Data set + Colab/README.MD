@@ -33,5 +33,5 @@ Accuracy:
 
 <img width="600" alt="Maze" src="https://user-images.githubusercontent.com/109574120/218940175-7074240f-8b2b-49a8-bd99-e77a345e57d3.png">
 
-iPython note book can be found [here]
+iPython note book can be found [HERE](https://github.com/fatemanagori/Machine-Learning/blob/main/Supervised%20Learning/KNN%20%2B%20Confusion%20Matrix%20%2B%20Iris%20Data%20set%20%2B%20Colab/knn_iris.pdf)
 
